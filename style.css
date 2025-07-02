@@ -190,15 +190,16 @@ color: #8700FF;
 }
 .section3story{
   /* max-width: 1400px; */
-  gap: 30px;
+ 
   flex-direction: row;
   flex-wrap: wrap;
+  justify-content: space-between;
 
 }
 .leftdiv{
   height: 631px;
   width: 100%;
-  max-width: 650px;
+  max-width: 800px;
   border-radius: 16px;
 }
 
