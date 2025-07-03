@@ -241,6 +241,7 @@ color: #8700FF;
   top: -23px ; 
  }
  .rightdiv{
+
   width: 100%;
   max-width: 650px;
   /* height: 620px; */
@@ -546,6 +547,7 @@ flex-direction: column;
   grid-template-columns: repeat(2,1fr);
   grid-template-rows: repeat(2,1fr);
   gap: 5px;
+    margin-left: -120px;
   
  
 }
