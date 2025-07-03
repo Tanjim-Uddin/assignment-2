@@ -193,7 +193,7 @@ color: #8700FF;
  
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: space-evenly;
 
 }
 .leftdiv{
